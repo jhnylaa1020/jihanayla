@@ -1,0 +1,336 @@
+.u-section-1 .u-image-1 {
+  min-height: 504px;
+  background-image: url("https://assets.nicepagecdn.com/f5beb49f/5231023/images/WhatsAppImage2023-06-23at8.30.42PM.jpeg");
+}
+
+.u-section-1 .u-text-1 {
+  margin: 144px 37px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -8px 24px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    min-height: 416px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 319px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 239px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 150px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 569px;
+}
+
+.u-section-2 .u-slider-1 {
+  min-height: 400px;
+  height: auto;
+  width: 909px;
+  margin: 60px auto 60px 110px;
+}
+
+.u-section-2 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-shape-1 {
+  width: 994px;
+  height: 490px;
+  margin: -45px -43px 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 102px;
+  height: 102px;
+  margin: -388px auto 0;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin: 13px 80px 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 6px 80px 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  font-size: 0.875rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 21px auto 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-2 {
+  width: 101px;
+  height: 101px;
+  margin: 21px auto 0;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin: 12px auto 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 5px auto 0;
+}
+
+.u-section-2 .u-carousel-control-1 {
+  width: 43px;
+  height: 43px;
+  background-image: none;
+}
+
+.u-section-2 .u-carousel-control-2 {
+  width: 43px;
+  height: 43px;
+  background-image: none;
+  left: auto;
+  position: absolute;
+  right: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-slider-1 {
+    margin-left: 31px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    margin-top: -103px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: -103px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-slider-1 {
+    width: 720px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 720px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-slider-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-slider-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 552px;
+}
+
+.u-section-3 .u-text-1 {
+  margin-top: 22px;
+  margin-bottom: 0;
+  font-weight: 700;
+}
+
+.u-section-3 .u-list-1 {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-repeater-1 {
+  grid-auto-columns: calc(33.3333% - 6.66667px);
+  grid-template-columns: repeat(3, calc(33.3333% - 6.66667px));
+  min-height: 375px;
+  grid-gap: 10px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 10px 0;
+}
+
+.u-section-3 .u-image-1 {
+  width: 122px;
+  height: 122px;
+  background-image: url("https://assets.nicepagecdn.com/f5beb49f/5231023/images/WhatsAppImage2023-06-23at9.05.29PM.jpeg");
+  background-position: 50% 50%;
+  margin: 0 auto 0 98px;
+}
+
+.u-section-3 .u-text-2 {
+  font-weight: 700;
+  margin: 9px auto 0 7px;
+}
+
+.u-section-3 .u-text-3 {
+  font-style: italic;
+  margin: 0;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 10px 0;
+}
+
+.u-section-3 .u-image-2 {
+  width: 122px;
+  height: 122px;
+  background-image: url("https://assets.nicepagecdn.com/f5beb49f/5231023/images/WhatsAppImage2023-06-23at9.05.29PM1.jpeg");
+  background-position: 50% 50%;
+  margin: 0 auto 0 98px;
+}
+
+.u-section-3 .u-text-4 {
+  font-weight: 700;
+  margin: 9px auto 0 7px;
+}
+
+.u-section-3 .u-text-5 {
+  font-style: italic;
+  margin: 0;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 10px 0;
+}
+
+.u-section-3 .u-image-3 {
+  width: 122px;
+  height: 122px;
+  background-image: url("https://assets.nicepagecdn.com/f5beb49f/5231023/images/WhatsAppImage2023-06-23at9.00.01PM.jpeg");
+  background-position: 50% 50%;
+  margin: 0 auto 0 98px;
+}
+
+.u-section-3 .u-text-6 {
+  font-weight: 700;
+  margin: 9px auto 0 7px;
+}
+
+.u-section-3 .u-text-7 {
+  font-style: italic;
+  margin: 0;
+}
+
+.u-section-3 .u-list-2 {
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-repeater-1 {
+    grid-auto-columns: calc(33.333333333333336% - 6.66667px);
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 6.66667px));
+    min-height: 308px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-repeater-1 {
+    grid-auto-columns: calc(50% - 5.0000025px);
+    grid-template-columns: repeat(2, calc(50% - 5.0000025px));
+    min-height: 723px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-repeater-1 {
+    grid-auto-columns: calc(100% - 0px);
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-repeater-1 {
+    grid-auto-columns: 100%;
+  }
+}
